@@ -1,5 +1,5 @@
 {
     "require": {
-        "guzzlehttp/guzzle": "^7.0"
+        "econea/nusoap": "^0.9.15"
     }
 }

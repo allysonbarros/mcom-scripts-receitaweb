@@ -2,6 +2,8 @@ version: "3"
 
 services:
   php:
-    image: sineverba/php8xc:latest
+    #image: php:7.3-cli
+    build: .
     volumes:
-      - ".:/var/www/html"
+      # - ".:/var/www/html"
+      - ".:/app"
