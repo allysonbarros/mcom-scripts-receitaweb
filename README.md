@@ -18,5 +18,14 @@ Para a validação foram desenvolvidos scripts em Python (usando as bibliotecas 
 
 ## Script 4 - PHP usando a biblioteca SoapClient
 
-![Script 4 - PHP usando a biblioteca SoapClient](/.github/assets/resultado-soapclient.png "Script 3 - PHP usando a biblioteca SoapClient")
+![Script 4 - PHP usando a biblioteca SoapClient](/.github/assets/resultado-soapclient.png "Script 4 - PHP usando a biblioteca SoapClient")
 
+## Script 5 - PHP usando a biblioteca NuSoap (mesma utilizada no módulo de peticionamento)
+
+### 5.1 - Usando a biblioteca NuSoap via Composer
+![Script 5 - PHP usando a biblioteca NuSoap (mesma utilizada no módulo de peticionamento)](/.github/assets/resultado-nusoap-01.png "Script 5 - PHP usando a biblioteca NuSoap (mesma utilizada no módulo de peticionamento)")
+
+### 5.2 - Usando a biblioteca NuSoap incorporada no módulo de peticionamento
+![Script 5 - PHP usando a biblioteca NuSoap (mesma utilizada no módulo de peticionamento)](/.github/assets/resultado-nusoap-02.png "Script 5 - PHP usando a biblioteca NuSoap (mesma utilizada no módulo de peticionamento)")
+
+![Script 5 - PHP usando a biblioteca NuSoap (mesma utilizada no módulo de peticionamento)](/.github/assets/resultado-nusoap-03.png "Script 5 - PHP usando a biblioteca NuSoap (mesma utilizada no módulo de peticionamento)")
