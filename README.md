@@ -6,9 +6,17 @@ Para a validação foram desenvolvidos scripts em Python (usando as bibliotecas 
 
 ## Script 1 - Python usando a biblioteca Zeep
 
-![Script 1 - Python usando a biblioteca Zeep](/.github/assets/Script2.png "Script 1 - Python usando a biblioteca Zeep")
+![Script 1 - Python usando a biblioteca Zeep](/.github/assets/resultado-zeep.png "Script 1 - Python usando a biblioteca Zeep")
 
 ## Script 2 - Python usando a biblioteca Requests
 
-![Script 2 - Python usando a biblioteca Requests](/.github/assets/Script4.png "Script 2 - Python usando a biblioteca Requests")
+![Script 2 - Python usando a biblioteca Requests](/.github/assets/resultado-requests.png "Script 2 - Python usando a biblioteca Requests")
+
+## Script 3 - PHP usando a biblioteca GuzzleHttp
+
+![Script 3 - PHP usando a biblioteca GuzzleHttp](/.github/assets/resultado-guzzlehttp.png "Script 3 - PHP usando a biblioteca GuzzleHttp")
+
+## Script 4 - PHP usando a biblioteca SoapClient
+
+![Script 4 - PHP usando a biblioteca SoapClient](/.github/assets/resultado-soapclient.png "Script 3 - PHP usando a biblioteca SoapClient")
 
